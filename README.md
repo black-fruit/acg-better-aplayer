@@ -17,3 +17,7 @@
   
 >
 ```
+
+# 语法
+
+参考 https://aplayer.js.org/
