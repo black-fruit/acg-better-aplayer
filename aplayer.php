@@ -3,6 +3,8 @@
     /*
     
     author: BFHUI Network
+    
+    version: v0.0.1-alpha
 
     project_name: BetterAPlayer
 
