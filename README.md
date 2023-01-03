@@ -1,4 +1,4 @@
-# acg-better-aplayer
+# Better PHP APlayer
 
 一款基于 APlayer 的音乐播放器
 
